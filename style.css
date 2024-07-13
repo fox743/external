@@ -1,0 +1,92 @@
+body {
+    background-color: black;
+    margin: none;
+}
+
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+#husu {
+
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    background-image: url(./img/husuoxsar.png);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.husu {
+    justify-content: center;
+    display: flex;
+    color: white;
+}
+
+#isi {
+    width: 250px;
+    height: 250px;
+    background-image: url(./img/isioxsar.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.isi {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+#celal{
+    width: 250px;
+    height: 250px;
+   background-image: url(./img/celal.webp);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+}
+#haci{
+    width: 250px;
+    height: 250px;
+    background-image: url(./img/murad.jpeg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.haci{
+    color: white;
+
+    display: flex;
+    justify-content: center;
+}
+#fati{
+    width: 250px;
+    height: 250px;
+    background-image: url(./img/fatii.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.fati{
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+#mecid{
+    width: 250px;
+    height: 250px;
+    background-image:url(./img/programmer.jpg) ;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+
+}
+.mecid{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
